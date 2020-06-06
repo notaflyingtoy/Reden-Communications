@@ -1,8 +1,8 @@
 ---
-title: 'We Help Business Grow'
+title: 'We Help You Bring Your Ideas to Politicians'
 weight: 1
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
-button: 'Our Work'
+background: 'images/Palace_of_Westminster.jpg'
+button: 'Our Categories'
 buttonLink: 'work'
 ---
 

@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Hugo Hero Theme"
+title = "Reden-Communications"
 themesDir = "themes"
 theme = "hugo-hero-theme"
 
@@ -9,9 +9,9 @@ theme = "hugo-hero-theme"
 
   [params.homepage_meta_tags]
     meta_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
-    meta_og_title = "Hugo Hero Theme"
+    meta_og_title = "Reden Communications"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-hero.netlify.com"
+    meta_og_url = "https://reden-communications.co.uk"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
     meta_og_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
     meta_twitter_card = "summary"
@@ -19,24 +19,15 @@ theme = "hugo-hero-theme"
     meta_twitter_creator = "@zerostaticio"
 
 [[menu.main]]
-	name = "Services"
-	url = "/services/"
+	name = "Categories"
+	url = "/categories/"
     weight = 1
 
-[[menu.main]]
-    name = "Work"
-    url = "/work/"
-    weight = 2
-
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 3
 
 [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 4
+    weight = 2
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
