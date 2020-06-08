@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Reden-Communications"
+title = "Reden Communications"
 themesDir = "themes"
 theme = "hugo-hero-theme"
 
