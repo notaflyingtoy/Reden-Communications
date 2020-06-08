@@ -1,9 +1,9 @@
 ---
 title: 'We Help You Bring Your Ideas to Politicians'
 weight: 1
-background: 'images/Palace_of_Westminster.jpg'
+background: ''
 button: 'Our Categories'
-buttonLink: 'work'
+buttonLink: 'categories'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+Reden Communications helps you to better advertise your message, literature or events. Using our political contact databases, you can better target those with relevant interests to receive your message by post or email and ensure that you maximise your exposure without resorting to spam.

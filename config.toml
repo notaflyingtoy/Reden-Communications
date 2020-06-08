@@ -19,7 +19,7 @@ theme = "hugo-hero-theme"
     meta_twitter_creator = "@zerostaticio"
 
 [[menu.main]]
-	name = "Categories"
+	name = "Political Categories"
 	url = "/categories/"
     weight = 1
 
@@ -32,3 +32,5 @@ theme = "hugo-hero-theme"
 [permalinks]
   post = "/:year/:month/:day/:slug/"
   pages = "/:filename/"
+
+site_type = "Local_Business"
